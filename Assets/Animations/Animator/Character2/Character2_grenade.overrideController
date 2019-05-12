@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Character2_grenade
+  m_Controller: {fileID: 9100000, guid: b6ab3578920803648aae3c1f716b4824, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 56b3ca0cc4a7fd24e9d024e3fc790f26, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6dc0dd0d9f6d4ac43893d61ce275812b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 69fc735ff0bad9749a718ace8a688529, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c3937a649f3f63a49a72d6d1048f5bcb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 74bf07c60c67bfa4eb90cc402005f3ef, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7a51ad95a8229624f87ad1774f7dee5a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a30f9f82ba1811445b4851fce3ad3e1a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ff43fcb517bd138428c62ef1ef6ef05a, type: 2}

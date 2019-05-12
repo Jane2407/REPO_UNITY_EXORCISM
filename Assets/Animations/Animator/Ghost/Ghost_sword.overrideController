@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ghost_sword
+  m_Controller: {fileID: 9100000, guid: b2ae97b54242eab468c1893c150ce8fe, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 56b3ca0cc4a7fd24e9d024e3fc790f26, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3e8bae1b598fc8f4599210e380500848, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1c272e1381117b541a7b6f58512db7f5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3e8bae1b598fc8f4599210e380500848, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c2a0ffcda0ac3494f8dcbfd8b0f67ea2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 43c57b61190383d40a4e929d35392529, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4bdac72117ca84c45958fde0f5ff5823, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 43c57b61190383d40a4e929d35392529, type: 2}
